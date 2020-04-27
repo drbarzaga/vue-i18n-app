@@ -1,0 +1,16 @@
+{
+  "main": {
+      "free": "Free",
+      "paid":  "Premium",
+      "locale":  "Locale",
+      "welcome": "Hello from {company}",
+      "product": "Product",
+      "users_included": "users included",
+      "storage": "of storage",
+      "email_support": "email support",
+      "help_center": "help center access",
+      "sing_up_free": "sign up free",
+      "select": "Select",
+      "month": "Month"
+  }
+}

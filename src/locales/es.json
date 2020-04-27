@@ -1,0 +1,16 @@
+{
+  "main": {
+      "free": "Gratis",
+      "paid":  "De Pago",
+      "locale":  "Idioma",
+      "welcome": "Hola desde {company}",
+      "product": "Producto",
+      "users_included": "usuarios incluidos",
+      "storage": "de almacenamiento",
+      "email_support": "soporte vía email",
+      "help_center": "acceso al centro de ayuda",
+      "sign_up_free": "registrate gratis",
+      "select": "Seleccionar",
+      "month": "Mes"
+  }
+}
