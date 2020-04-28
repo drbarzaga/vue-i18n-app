@@ -1,5 +1,10 @@
 # vue-i18n
 
+```
+A simple demo project that show vuejs i18n basic usage
+```
+
+
 ## Project setup
 ```
 npm install
