@@ -1,8 +1,6 @@
-# vue-i18n
+# vue-i18n-demo
 
-```
-A simple demo project that show vuejs i18n basic usage
-```
+**vue-i18n-demo** is a simple demo project that shows how usage vue i18n.
 
 
 ## Project setup
