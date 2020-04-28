@@ -2,6 +2,11 @@
 
 **vue-i18n-demo** is a simple demo project that shows how usage vue i18n.
 
+## Configure Environment
+```
+Copy .env.example to .env in root folder of project and put environments
+var here.
+```
 
 ## Project setup
 ```
